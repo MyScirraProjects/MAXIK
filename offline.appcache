@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1474189708
+#1474209398
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -19,6 +19,8 @@ images/sprite5-sheet0.png
 images/grass.png
 images/ghost-sheet0.png
 images/rain.png
+images/doshik-sheet0.png
+images/table-sheet0.png
 media/fire.m4a
 media/fire.ogg
 media/labyrinth%20of%20lost%20dreams.ogg
